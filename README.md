@@ -64,3 +64,7 @@ cd backend && npm test
 - Keyword search across title and description
 - Seed script with 7 sample jobs (npm run seed)
 - Unit tests with Jest and Supertest (npm test)
+
+  ## Live URLs
+•⁠  ⁠Frontend: https://globaltna.vercel.app
+•⁠  ⁠Backend: https://globaltna.onrender.com
